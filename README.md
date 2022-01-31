@@ -7,7 +7,7 @@ Soy desarollador front-end junior. Actualmente trabajo como Assistant Manager en
 - 💛 Fan de la versatilidad de JavaScript, pero sí, abierto a trabajar en otras tecnologías.
 
 Escribo cosas divertidas en [Twitter](https://www.twitter.com/acostheta),
-  y cosas más serias en en [Hashnode](https://acostheta.hashnode.dev).
+  y cosas más serias en [Hashnode](https://acostheta.hashnode.dev).
 
 
 <!--
