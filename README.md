@@ -3,7 +3,7 @@
 Soy desarollador front-end junior. Actualmente trabajo como Assistant Manager en Alaxatech y estoy a la búsqueda de desarrollar proyectos interesantes y divertidos.
 
 - 🔭 Actualmente trabajo en un CRM construido en MERN.
-- 🌱 Reforzando conocimientos de Backend y Arquitectura de Software
+- 🌱 Reforzando conocimientos de React con TypeScript
 - 💛 Fan de la versatilidad de JavaScript, pero sí, abierto a trabajar en otras tecnologías.
 
 Escribo cosas divertidas en [Twitter](https://www.twitter.com/acostheta),
