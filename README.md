@@ -1,6 +1,6 @@
 ### Hola, soy Luis 👋
 
-Soy desarollador front-end junior. Actualmente trabajo como Assistant Manager en Alaxatech y estoy a la búsqueda de desarrollar proyectos interesantes y divertidos.
+Soy desarrollador front-end junior. Actualmente trabajo como Assistant Manager en Alaxatech y estoy a la búsqueda de desarrollar proyectos interesantes y divertidos.
 
 - 🔭 Actualmente trabajo en un CRM construido en MERN.
 - 🌱 Reforzando conocimientos de React con TypeScript
