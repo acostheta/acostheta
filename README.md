@@ -2,8 +2,8 @@
 
 Soy desarrollador front-end junior. Actualmente trabajo como IT Manager en [Alaxatech](https://alaxatech.com/) y estoy a la búsqueda de desarrollar proyectos interesantes y divertidos.
 
-- 🔭 Actualmente trabajando en aprender Angular.
-- 🌱 Reforzando conocimientos Planificación y Análisis de Casos de Prueba (QA Testing).
+- 🔭 Actualmente trabajando en Planificación y Análisis de Casos de Prueba (QA Testing).
+- 🌱 Estoy aprendiendo sobre Angular.
 - 👯 Me gustaría colaborar en proyectos que aporten cosas positivas a la comunidad.
 
 Escribo cosas divertidas en [Twitter](https://www.twitter.com/acostheta),
