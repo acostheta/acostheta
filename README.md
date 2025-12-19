@@ -1,13 +1,13 @@
 ### Hola, soy Luis 👋
 
-Soy desarrollador front-end junior. Actualmente trabajo como IT Manager en [Alaxatech](https://alaxatech.com/) y estoy a la búsqueda de desarrollar proyectos interesantes y divertidos.
+Soy Desarrollador Móvil, actualmente trabajo en [Progrese](hhttps://www.facebook.com/progreseconsultoria/?locale=es_LA) y estoy a la búsqueda de desarrollar proyectos interesantes y divertidos.
 
-- 🔭 Actualmente trabajando en Planificación y Análisis de Casos de Prueba (QA Testing).
-- 🌱 Estoy aprendiendo sobre Angular.
-- 👯 Me gustaría colaborar en proyectos que aporten cosas positivas a la comunidad.
+- 🔭 Actualmente trabajo en desarrollo móvil con Flutter.
+- 🌱 Tengo formación en Gestión de Proyectos (Project Manager Specialist).
+- 📚 Estoy cursando Ingeniería de Sistemas.
+- 🪢 También soy voluntario en la Asociación de Scouts de Venezuela.
 
-Escribo cosas divertidas en [Twitter](https://www.twitter.com/acostheta),
-  y cosas más serias en [Hashnode](https://acostheta.hashnode.dev).
+Puedes contactarme en 📷[Instagram](https://www.instagram.com/acostheta).
 
 
 <!--
