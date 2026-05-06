@@ -2,8 +2,8 @@
 
 Soy Desarrollador Móvil, actualmente trabajo en [Progrese](hhttps://www.facebook.com/progreseconsultoria/?locale=es_LA) y estoy a la búsqueda de desarrollar proyectos interesantes y divertidos.
 
-- 🔭 Actualmente trabajo en desarrollo móvil con Flutter.
-- 🌱 Tengo formación en Gestión de Proyectos (Project Manager Specialist).
+- 📲 Actualmente trabajo en desarrollo móvil con Flutter.
+- 📋 Tengo formación en Gestión de Proyectos (Project Manager Specialist).
 - 📚 Estoy cursando Ingeniería de Sistemas.
 - 🪢 También soy voluntario en la Asociación de Scouts de Venezuela.
 
